@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4C1D95"/>
+      <stop offset="0.55" stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <circle cx="1050" cy="60" r="180" fill="#ffffff" opacity="0.06"/>
+  <circle cx="120" cy="330" r="140" fill="#ffffff" opacity="0.05"/>
+  <circle cx="600" cy="190" r="240" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+  <rect width="1200" height="380" fill="url(#shine)"/>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#ffffff">Bennebos Delivery App</text>
+<text x="600" y="220" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#E9D5FF">On-Demand Delivery Management for Couriers</text>
+<text x="600" y="330" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#C4B5FD">Developed by Arslan Malik  ·  arslanmalik.tech</text>
+</svg>
